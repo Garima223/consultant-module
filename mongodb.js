@@ -10,4 +10,4 @@ console.log("Connected To Mongo Successfully")
 })
 }
 module.exports = connectToMongo
-Footer
+
