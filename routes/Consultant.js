@@ -20,7 +20,7 @@ route.post("/create",(req,res)=>{
         consultant_address: 'Indore',
         consultant_phone: '0987654321',
         consultant_other_info: 'optional',
-        consultant_date: 24-01-2023;
+        consultant_date: 24-01-2023
         
     }
 
@@ -50,7 +50,7 @@ route.put("/edit",(req,res)=>{
         consultant_address: 'Indore',
         consultant_phone: '0987654321',
         consultant_other_info: 'optional',
-        consultant_date: 24-01-2023;
+        consultant_date: 24-01-2023
        
             }
 
