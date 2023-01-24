@@ -1,5 +1,5 @@
 const express= require('express')
-const route=express.Router()
+const routes=express.Router()
 const db= require('../Consultant1.js')
 
 route.get("/list",(req,res)=>{
